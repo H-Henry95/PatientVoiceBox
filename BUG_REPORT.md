@@ -16,7 +16,7 @@ Details:   What the patient said, what the agent did, and what it should
            have done instead.
 ```
 
-## Example (from the brief — shows the format)
+## Example
 
 ```
 Bug:       Agent confirms an appointment for Sunday, but the practice is
