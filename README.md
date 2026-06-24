@@ -45,7 +45,7 @@ cd patient-voice-bot
 python -m venv .venv && source .venv/bin/activate
 make install                 # pip install -r requirements.txt
 
-cp .env.example .env         # then fill in your keys (see comments in the file)
+cp .env.example .env         # then fill in your keys
 ```
 
 ## Run
